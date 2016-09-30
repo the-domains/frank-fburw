@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-09-30T10:41:28.290Z'
+datePublished: '2016-09-30T10:42:52.608Z'
 sourcePath: _posts/2016-09-30-amc-preacher-1x01-pilotpdf.md
 inFeed: true
-isBasedOnUrl: 'https://drive.google.com/file/d/0B15GFukr2e6yTU9YdncwTzB5Z0k/view'
+hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-30T10:41:27.503Z'
+dateModified: '2016-09-30T10:42:51.972Z'
 title: AMC - Preacher 1X01 - Pilot.pdf
 app_links: []
 publisher:
@@ -17,6 +17,7 @@ publisher:
   domain: drive.google.com
 description: SCRIPT episode 1x01 of Preacher
 starred: false
+url: amc-preacher-1x01-pilotpdf/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
