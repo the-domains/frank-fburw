@@ -22,7 +22,4 @@ navigation:
     type: content
 title: ''
 description: 'words, etc'
-purpose:
-  - type: contact
-    url: 'mailto:mail@frankcoles.com'
-    label: Contact me
+purpose: []
