@@ -1,0 +1,28 @@
+typography_spectrum: 0.4788848503958434
+color:
+  brandStrength: 0.39893613988533616
+  lightness: 0.7635805832687765
+  saturation: 0.4629629743285477
+  rhythmicContrast: 0.2285154820419848
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+github: true
+layout_spectrum: 0.5795050002634525
+name: frank
+navigation:
+  - name: about
+    id: 7dbfb979-11ab-44d2-86d3-a7a9cbcac59e
+    type: content
+  - name: projects
+    id: 660b59a0-0b90-4e81-81a8-6f5f8bba3430
+    type: content
+title: frank coles
+description: 'words, etc'
+purpose:
+  - type: contact
+    url: 'mailto:mail@frankcoles.com'
+    label: Contact me
