@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[frank coles]]></title>
-        <description><![CDATA[frank coles]]></description>
+        <title><![CDATA[frank]]></title>
+        <description><![CDATA[frank]]></description>
         <link>https://thegrid.ai/frank-fburw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Sep 2016 10:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2016 10:49:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/frank-fburw/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Sep 2016 10:42:52 GMT</pubDate>
+        <pubDate>Fri, 30 Sep 2016 10:49:34 GMT</pubDate>
+        <item>
+            <title><![CDATA[Zen and the Art of Living Deeply]]></title>
+            <description><![CDATA[<article><h1>Zen and the Art of Living Deeply</h1><p>With traditional arts in Asia much emphasis is put on long-term practice and effort, so as to reach continuously higher levels of skill development. There is a deeper character training happening as well, to reduce the ego's voice, let go of fears, cultivate mindfulness, increase gratitude and live more fully in the present moment.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/60f7a3fcd1a7c308faa2cc3175c544fb/noop.jpg?input=http%3A%2F%2Fupliftconnect.com%2Fwp-content%2Fuploads%2F2016%2F05%2FImage-1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/frank-fburw/zen-and-the-art-of-living-deeply/index.html</link>
+            <guid isPermaLink="false">c00d5386-bca2-4fa9-91c8-b8218e259a57</guid>
+            <pubDate>Fri, 30 Sep 2016 10:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AMC - Preacher 1X01 - Pilot.pdf]]></title>
-            <description><![CDATA[<article><h1>AMC - Preacher 1X01 - Pilot.pdf</h1><p>SCRIPT episode 1x01 of Preacher</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/855711f0f8582755d363fcd899b96313/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FeRWkohvt6yL01YZDj7DsHrrZWYkJfz-j_FFSPgBpaEwq-d_wAhZv2w%3Dw1200-h630-p"></article>]]></description>
+            <description><![CDATA[<article><h1>AMC - Preacher 1X01 - Pilot.pdf</h1><p>SCRIPT episode 1x01 of Preacher</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c330026900b78f7656b8267d247bbc9b7275825f"></article>]]></description>
             <link>https://thegrid.ai/frank-fburw/amc-preacher-1x01-pilotpdf/index.html</link>
             <guid isPermaLink="false">ab6958d4-bfb8-4d22-b1c4-f0eb8b5b31c2</guid>
             <pubDate>Fri, 30 Sep 2016 10:42:52 GMT</pubDate>
